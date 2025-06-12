@@ -1,0 +1,35 @@
+
+body {
+      background: rgb(42, 131, 217);
+      color: white;
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .weather-box {
+      background: #2d68c06a;
+      width: 300px;
+      padding: 30px;
+      border-radius: 15px;
+      text-align: center;
+      box-shadow:0 0 10px rgb(32, 64, 108);
+    }
+    input {
+      padding: 10px;
+      border-radius: 10px;
+      border: none;
+      outline: none;
+    }
+    button {
+      padding: 10px;
+      border-radius: 10px;
+      border: none;
+      margin-left: 10px;
+      cursor: pointer;
+    }
+    img {
+      width: 80px;
+    }
+    
